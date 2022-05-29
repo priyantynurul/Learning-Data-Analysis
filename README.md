@@ -11,5 +11,5 @@ Below are the projects done in ReplIt in order to finish the learning path:
 3. Medical Data Visualizer - https://replit.com/@PriyantyNurul/boilerplate-medical-data-visualizer-3#medical_data_visualizer.py
 4. Time Series Visualizer - https://replit.com/@PriyantyNurul/boilerplate-page-view-time-series-visualizer#time_series_visualizer.py
 
-I am editing the README file. Adding some more details about the project description.
+I am re-editing the README file. Adding some more details about the project description.
 
