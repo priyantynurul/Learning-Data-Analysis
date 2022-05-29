@@ -10,3 +10,6 @@ Below are the projects done in ReplIt in order to finish the learning path:
 2. Demographic Data Analyzer - https://replit.com/@PriyantyNurul/boilerplate-demographic-data-analyzer-1#demographic_data_analyzer.py
 3. Medical Data Visualizer - https://replit.com/@PriyantyNurul/boilerplate-medical-data-visualizer-3#medical_data_visualizer.py
 4. Time Series Visualizer - https://replit.com/@PriyantyNurul/boilerplate-page-view-time-series-visualizer#time_series_visualizer.py
+
+I am editing the README file. Adding some more details about the project description.
+
